@@ -5,7 +5,7 @@
         "Version": 1,
         "Type": "Article",
         "Components": {
-            "Content": "Atlas Documents are integral to NEWDAO's structure and governance. They are organized into document trees, starting with Immutable Documents, containing the Spirit of the Atlas, and Adaptive Documents for operationalization and evolution. The Sections of this Article provide detailed insight into the properties, evolution, and processes related to Atlas Documents."
+            "Content": "TESTING AN EDIT - Atlas Documents are integral to NEWDAO's structure and governance. They are organized into document trees, starting with Immutable Documents, containing the Spirit of the Atlas, and Adaptive Documents for operationalization and evolution. The Sections of this Article provide detailed insight into the properties, evolution, and processes related to Atlas Documents."
         },
         "Last_Modified": "2023-08-16-19:07:00",
         "Child_Documents": [
